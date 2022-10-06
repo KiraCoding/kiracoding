@@ -7,8 +7,6 @@
 [![Twitch][twitch_badge]][twitch_url]
 [![YouTube][youtube_badge]][youtube_url]
 
-I'm a hobby dev
-
 <!-- Twitter -->
 [twitter_badge]: https://img.shields.io/badge/-twitter-black?style=for-the-badge&logo=twitter
 [twitter_url]: https://twitter.com/AkiraNoHikariii
