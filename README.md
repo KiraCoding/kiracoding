@@ -1,10 +1,13 @@
-<img src="https://raw.githubusercontent.com/kiracoding/kiracoding/main/.github/images/menhera_salute.webp" style="margin-top: -20px;" alt="Menhera saluting" align="right" width="125" />
-<h1 align="left">Hi, I'm Kira</h1>
+<img src="https://raw.githubusercontent.com/kiracoding/kiracoding/main/.github/images/menhera_salute.webp" alt="Menhera saluting" align="right" width="125" />
+
+# Hi, I'm Kira ❄️
 
 [![Twitter][twitter_badge]][twitter_url]
 [![Instagram][instagram_badge]][instagram_url]
 [![Twitch][twitch_badge]][twitch_url]
 [![YouTube][youtube_badge]][youtube_url]
+
+I'm a hobby dev
 
 <!-- Twitter -->
 [twitter_badge]: https://img.shields.io/badge/-twitter-black?style=for-the-badge&logo=twitter
