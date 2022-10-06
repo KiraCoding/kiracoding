@@ -4,6 +4,7 @@
 [![Twitter][twitter_badge]][twitter_url]
 [![Instagram][instagram_badge]][instagram_url]
 [![Twitch][twitch_badge]][twitch_url]
+[![YouTube][youtube_badge]][youtube_url]
 
 <!-- Twitter -->
 [twitter_badge]: https://img.shields.io/badge/-twitter-black?style=for-the-badge&logo=twitter
@@ -16,3 +17,7 @@
 <!-- Twitch -->
 [twitch_badge]: https://img.shields.io/badge/-twitch-black?style=for-the-badge&logo=twitch
 [twitch_url]: https://www.twitch.tv/akiranohikari
+
+<!-- YouTube -->
+[youtube_badge]: https://img.shields.io/badge/-youtube-black?style=for-the-badge&logo=youtube&logoColor=FF0000
+[youtube_url]: https://www.youtube.com/channel/UCnCPN9xi7y8arkpymcTXzNw
