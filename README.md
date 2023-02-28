@@ -9,7 +9,7 @@
 
 <!-- Twitter -->
 [twitter_badge]: https://img.shields.io/badge/-twitter-black?style=for-the-badge&logo=twitter
-[twitter_url]: https://twitter.com/AkiraNoHikariii
+[twitter_url]: https://twitter.com/KiraSocial
 
 <!-- Instagram -->
 [instagram_badge]: https://img.shields.io/badge/-instagram-black?style=for-the-badge&logo=instagram
