@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/kiracoding/kiracoding/main/.github/images/menhera_salute.webp" alt="Menhera saluting" align="right" width="125" />
 
-# Hi, I'm Kira ❄️
+# Hi, I'm Ellie ❄️
 
 [![Twitter][twitter_badge]][twitter_url]
 [![Instagram][instagram_badge]][instagram_url]
